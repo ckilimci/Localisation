@@ -4305,10 +4305,10 @@ STR_5993    :{SMALLFONT}{BLACK}Copy selected element
 STR_5994    :{SMALLFONT}{BLACK}Paste copied element
 STR_5995    :Booster
 STR_5996    :Booster speed
-STR_5997    :Add/set money
-STR_5998    :Add money
-STR_5999    :Set money
-STR_6000    :Enter new value
+STR_5997    :Para ekle/belirle
+STR_5998    :Para ekle
+STR_5999    :Parayi belirle
+STR_6000    :Yeni deger giriniz
 STR_6001    :Enable lighting effects (experimental)
 STR_6002    :{SMALLFONT}{BLACK}Lamps and rides will be lit up at night.{NEWLINE}Requires rendering engine to be set to hardware display.
 STR_6003    :Cut-away View
